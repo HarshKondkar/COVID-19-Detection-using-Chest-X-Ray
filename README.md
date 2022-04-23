@@ -5,6 +5,7 @@
 - Older adults and people who have certain underlying medical conditions are at increased risk of severe illness from COVID-19.
 - Millions of people have died from COVID-19 all over the world.
 - Vaccines against COVID-19 are safe and effective. Vaccines teach our immune system to fight the virus that causes COVID-19.
+
 **But it crucial to identify whether a person has COVID-19 and this app tries to do exactly that using the patient's posterioranterior(PA) chest X-ray**
 ### Here is what the app looks like:
 ![app_ss](https://user-images.githubusercontent.com/69424366/164910984-c1264731-1caf-431b-9eca-b993628b2919.png)
