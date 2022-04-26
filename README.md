@@ -9,3 +9,5 @@
 **But it crucial to identify whether a person has COVID-19 and this app tries to do exactly that using the patient's posterioranterior(PA) chest X-ray**
 ### Here is what the app looks like:
 ![app_ss](https://user-images.githubusercontent.com/69424366/164910984-c1264731-1caf-431b-9eca-b993628b2919.png)
+
+**Here is the link to the app deployed on Streamlit:** https://share.streamlit.io/harshkondkar/covid-19-detection-using-chest-x-ray/main/app.py 
