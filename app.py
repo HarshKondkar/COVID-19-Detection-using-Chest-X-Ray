@@ -5,8 +5,8 @@ import tensorflow as tf
 from keras.applications.resnet import ResNet50, preprocess_input as preprocess_RN
 from keras.models import load_model, model_from_json
 from keras.preprocessing.image import load_img, save_img, img_to_array
-import joblib
-import pickle
+#import joblib
+#import pickle
 from PIL import Image, ImageOps
 import streamlit as st
 import json
